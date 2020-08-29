@@ -1,5 +1,5 @@
 # Weather-Man
-Introduction - The aim of the Weather-Man app is help to individuals who don't want to be caught off guard by the storm, rain, wind, sun or any other severe weather conditions by displaying the current temperature in Fahrenheit. The app also displays an image to show the current temperature for a particular searched location for those who cannot understand the numbers displayed in Fahrenheit. Additionally, the app provides more information on the Breaking/latest news for the searched location to help you stay updated on current matters. 
+Introduction - The aim of the Weather-Man app is to help individuals who don't want to be caught off guard by the storm, rain, wind, sun or any other severe weather conditions by displaying the current temperature in Fahrenheit. The app also displays an image to show the current temperature for a particular searched location for those who cannot understand the numbers displayed in Fahrenheit. Additionally, the app provides more information on the Breaking/latest news for the searched location to help you stay updated on current matters. 
 
 Technologies - HTML, CSS, JAVASCRIPT/JQUERY, AJAX
 
