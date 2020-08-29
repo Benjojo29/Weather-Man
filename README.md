@@ -5,6 +5,6 @@ Technologies - HTML, CSS, JAVASCRIPT/JQUERY, AJAX
 
 Scope of Functionality 
 To search the temperature for a particular location - type in the city or country name and click on the search button.
-Input field cannot be left blank as it will display an error message when you try to search. City/Country names must be spelt correctly, since the app doesn't not give suggestions for spellings. Wrong spellings of City/Country names will not display any results. 
+Input field cannot be left blank as it will display an error message when you try to search. City/Country names must be spelt correctly, since the app does not give suggestions for spellings. Wrong spellings of City/Country names will not display any results. 
 
-on the bottom of the app you can click on the breaking news feed to open in a new tab. 
+On the bottom of the app, you will find the latest news in the searched City/country. Click on the link to open news in a new tab. 
